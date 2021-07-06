@@ -1,6 +1,4 @@
 # sfnrpc
-Simple fast nio (SFN) RPC in Java
-
 Simple fast nio rpc (SFNRPC) in Java. Tested on linux and windows platforms for high throughput.
 
 <hr size="1"/>
