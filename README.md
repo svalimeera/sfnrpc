@@ -56,5 +56,7 @@ Quick start test code at:
 sfnrpc/source/browse/src/main/test/sfn/core/rpc/test
 
 Issues
+
 a) Ensure all objects transferred implement java.io.Serializable. 
+
 b) Open a issue for support.
