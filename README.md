@@ -1,5 +1,4 @@
 # sfnrpc
-# sfnrpc
 Simple fast nio (SFN) RPC for Java
 
 Simple fast nio rpc (SFNRPC) for Java.
